@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* --- The Twilight Mauve Brand Theme --- */
+@theme {
+  --color-brand-bg: #150824;      /* Deep dark purple background */
+  --color-brand-card: #6d5c7d;    /* Muted light purple for cards */
+  --color-brand-border: #2a1640;  /* Deeper purple for subtle layout lines */
+  --color-brand-text: #efe2c8;    /* Cream/off-white for primary text */
+  --color-brand-muted: #d0c3af;   /* Dimmer cream for secondary paragraphs */
+  --color-brand-accent: #c07d9b;  /* Dusty pink for focal highlights & headers */
+}
+
+/* --- Global Base Layer --- */
+@layer base {
+  body {
+    background-color: var(--color-brand-bg);
+    color: var(--color-brand-text);
+  }
+}
