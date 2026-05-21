@@ -39,9 +39,8 @@ const About = () => {
             <p>
               I am a Computer Science student at C.V. Raman Global University and a graphic designer, operating at the intersection of logic and creativity. Beyond the titles, my philosophy is simple: COMPETE ONLY WITH WHO I WAS YESTERDAY.
             </p>
-            <p>
-              I don't measure success against others; I focus inward on compounding my growth by 1% every single day. By treating code as a canvas and technology as a lever, I turn raw ideas into intentional, real-world solutions that carry true human impact.
-            </p>
+            <p/>
+              I don't measure success against others; I focus inward on compounding my growth by 1% every single day. Instead of just writing syntax, I focus on building complete products—turning raw ideas into intuitive, intentional solutions that actually matter to the people using them.
           </div>
 
           {/* Stats Grid */}

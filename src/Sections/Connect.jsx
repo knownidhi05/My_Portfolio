@@ -48,10 +48,10 @@ const Connect = () => {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="flex flex-wrap justify-center gap-4 md:gap-6"
         >
-          <a href="www.linkedin.com/in/nidhi0504" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-6 py-3 bg-brand-card/10 border border-brand-border rounded-xl hover:bg-brand-card/30 hover:border-brand-accent/50 transition-all duration-300 group">
-            <FaLinkedin className="text-xl text-brand-muted group-hover:text-brand-accent transition-colors" />
-            <span className="font-mono text-sm tracking-wide text-brand-text group-hover:text-white">LinkedIn</span>
-          </a>
+          <a href="https://www.linkedin.com/in/nidhi0504" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 px-6 py-3 bg-brand-card/10 border border-brand-border rounded-xl hover:bg-brand-card/30 hover:border-brand-accent/50 transition-all duration-300 group">
+  <FaLinkedin className="text-xl text-brand-muted group-hover:text-brand-accent transition-colors" />
+  <span className="font-mono text-sm tracking-wide text-brand-text group-hover:text-white">LinkedIn</span>
+</a>
 
           <a href="mailto:nidhi.jsr0504@gmail.com" className="flex items-center gap-3 px-6 py-3 bg-brand-accent text-brand-bg border border-brand-accent rounded-xl hover:bg-transparent hover:text-brand-accent transition-all duration-300 shadow-[0_0_20px_rgba(192,125,155,0.2)] group">
             <FaEnvelope className="text-xl" />
